@@ -1,1 +1,0 @@
-# Telegram_translation_bot
